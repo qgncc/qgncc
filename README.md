@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**0xEVG/0xEVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# README
+## About me
++ Age: 21
++ Location: Tomsk, Siberia.
+## Tech stack
++ Frontend: HTML/SCSS/TS, ReactJS
++ Backend: usually ExpressJS, also familiar with PHP
+## Interests
++ Chess
++ ARCH LINUX
++ Math
++ Languages
+## Contacts
++ Telegram: [@erabbit322](t.me/erabbit322)
++ E-mail: evgenikrolikov[at]gmail.com
