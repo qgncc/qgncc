@@ -11,5 +11,5 @@
 + Math
 + Languages
 ## Contacts
-+ Telegram: [@erabbit322](t.me/erabbit322)
++ Telegram: [@erabbit322](http://t.me/erabbit322)
 + E-mail: evgenikrolikov[at]gmail.com
