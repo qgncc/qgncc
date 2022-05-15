@@ -11,5 +11,8 @@
 + Math
 + Languages
 ## Contacts
-+ Telegram: [@erabbit322](http://t.me/erabbit322)
++ Telegram: [@erabbit322](https://t.me/erabbit322)
 + E-mail: evgenikrolikov[at]gmail.com
+## Projects
++ [Chess on React+chess.js](https://github.com/0xEVG/chess-on-react);
++ [Web-site of stuio on React](https://github.com/0xEVG/LeStudio)
