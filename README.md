@@ -15,4 +15,4 @@
 + E-mail: evgenikrolikov[at]gmail.com
 ## Projects
 + [Chess on React+chess.js](https://github.com/0xEVG/chess-on-react);
-+ [Web-site of studio on React](https://github.com/0xEVG/LeStudio)
++ [Family tree](https://github.com/qgncc/family-tree)
